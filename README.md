@@ -1,4 +1,3 @@
 # sae105hebergement
 
-Pour page  : mathisiut41.github.io.
-page web sae
+https://mathisiut41.github.io/sae105hebergement/
